@@ -3,4 +3,8 @@ pkgdown: 1.4.1
 pkgdown_sha: ~
 articles:
   intro: intro.html
+  rmarkdown: rmarkdown.html
+urls:
+  reference: https://folkehelseinstituttet.github.io/plnr//reference
+  article: https://folkehelseinstituttet.github.io/plnr//articles
 
